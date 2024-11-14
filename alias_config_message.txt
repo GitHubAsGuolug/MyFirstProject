@@ -1,0 +1,8 @@
+当前文件记录在git中配置的别名命令
+
+
+#用于输出git提交日志
+alias git-log='git log --pretty=oneline --all --graph --abbrev-commit'
+#用于输出当前目所有文件及基本信息
+alias ll='ls -al'
+
